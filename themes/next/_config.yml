@@ -85,17 +85,23 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
-  #tags: /tags/ || tags
+  about: /about/ || user
+  tags: /tags/ || tags
   #categories: /categories/ || th
   archives: /archives/ || archive
-  #schedule: /schedule/ || calendar
+  schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
 
 
 # ---------------------------------------------------------------
@@ -362,8 +368,8 @@ disqus:
 # changyan
 changyan:
   enable: false
-  appid:
-  appkey:
+  appid: G08rKPnDd21xVvtQU4knCmS8-gzGzoHsz
+  appkey: 38LMjGW26aPyXu21Ff4OacH4
 
 
 # Valine.
