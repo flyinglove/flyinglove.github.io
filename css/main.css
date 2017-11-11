@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff16;
+  background: #f26fe8;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1949,7 +1949,7 @@ pre .javascript .function {
   border: none;
 }
 .footer-inner {
-  text-align: center;
+  text-align: left;
 }
 .with-love {
   display: inline-block;
